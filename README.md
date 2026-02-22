@@ -60,6 +60,12 @@ From an analyst’s perspective, this dashboard suggests:
 - Family-oriented product bundles could increase basket size.
 Since gender revenue is balanced, segmentation should be behavioral rather than gender-based.
 
+### Tools Used
+Power BI
+DAX
+Data Modeling
+Data Visualization Best Practices
+
 ## What This Project Demonstrates
 This practice dashboard highlights:
 - Customer segmentation analysis
@@ -67,3 +73,6 @@ This practice dashboard highlights:
 - Pattern recognition across demographics
 - Insight-driven storytelling
 Translating data into strategic recommendations
+
+### Conclusion
+This dashboard transforms customer-level data into actionable insights by combining demographic segmentation, revenue analysis, and customer ranking.
