@@ -2,7 +2,8 @@
 Power BI dashboard analyzing customer demographics, revenue contribution, and loyalty segmentation to identify high-value customer segments and business opportunities.
 
 ## 📷 Dashboard Preview
-![Customer Performance Dashboard](customer_performance_dashboard.png)
+![Customer Performance Dashboard](customer_performance_dashboard 1.png)
+![Customer Performance Dashboard](customer_performance_dashboard 2.png)
 
 ### The Business Context
 Customer data is often collected but not fully leveraged.
