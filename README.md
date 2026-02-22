@@ -1,6 +1,10 @@
 # Customer-Segmentation-Revenue-Analysis-Dashboard
 Power BI dashboard analyzing customer demographics, revenue contribution, and loyalty segmentation to identify high-value customer segments and business opportunities.
 
+## 📷 Dashboard Preview
+![Dashboard Screenshot](dashboard_screenshot.png)
+
+
 ### The Business Context
 Customer data is often collected but not fully leveraged.
 The challenge was simple:
@@ -58,7 +62,7 @@ From an analyst’s perspective, this dashboard suggests:
 - Marketing campaigns should prioritize the 31–50 age segment.
 - Loyalty programs should focus on top-tier customers.
 - Family-oriented product bundles could increase basket size.
-Since gender revenue is balanced, segmentation should be behavioral rather than gender-based.
+- Since gender revenue is balanced, segmentation should be behavioral rather than gender-based.
 
 ### Tools Used
 Power BI
