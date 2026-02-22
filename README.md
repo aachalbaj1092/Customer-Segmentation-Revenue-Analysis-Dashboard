@@ -3,6 +3,7 @@ Power BI dashboard analyzing customer demographics, revenue contribution, and lo
 
 ## 📷 Dashboard Preview
 ![Customer Performance Dashboard](customer_performance_dashboard 1.png)
+
 ![Customer Performance Dashboard](customer_performance_dashboard 2.png)
 
 ### The Business Context
