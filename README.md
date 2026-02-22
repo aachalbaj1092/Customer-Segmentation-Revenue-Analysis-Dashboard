@@ -1,7 +1,7 @@
 # Customer-Segmentation-Revenue-Analysis-Dashboard
 Power BI dashboard analyzing customer demographics, revenue contribution, and loyalty segmentation to identify high-value customer segments and business opportunities.
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 ![Customer Performance Dashboard](customer_performance_dashboard 1.png)
 
 ![Customer Performance Dashboard](customer_performance_dashboard 2.png)
